@@ -1,0 +1,16 @@
+{
+    "name": "RasofiaGames.SimpleUnityECS.Editor",
+    "references": [
+        "RasofiaGames.SimpleUnityECS"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

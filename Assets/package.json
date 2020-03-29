@@ -1,0 +1,28 @@
+{
+  "name": "com.rasofiagames.simpleunityecs",
+  "version": "0.0.1",
+  "displayName": "SimpleUnityECS",
+  "description": "SimpleUnityECS is a simplified query system using ECS architecture as its base. Making it easy to query over your entities and track / interact with optimized lists filled with entities following the given list rules.",
+  "unity": "2018.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "ECS",
+    "Query",
+    "List Rules",
+	"Entity",
+	"Component",
+	"System"
+  ],
+  "author": {
+    "name": "Rasofia Games",
+    "email": "contact@rasofiagames.com",
+    "url": "http://rasofiagames.com"
+  },
+  "samples": [
+        {
+            "displayName": "SimpleUnityECS Sample",
+            "description": "Sample scene / code to show how to use the SimpleUnityECS system",
+            "path": "Samples/SimpleUnityECS_SpaceSample"
+        }
+    ]
+}
